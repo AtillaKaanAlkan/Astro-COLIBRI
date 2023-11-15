@@ -1,5 +1,5 @@
 # Information Extraction with NLP techniques at the Second Astro-COLIBRI Workshop
-Data for the 2nd Astro-COLIBRI Workshop.
+Data for the [2nd Astro-COLIBRI Workshop](https://indico.ijclab.in2p3.fr/event/9549/).
 
 
 ### How to Load Data?
