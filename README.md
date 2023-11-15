@@ -1,5 +1,5 @@
 # Information Extraction with NLP techniques at the Second Astro-COLIBRI Workshop
-Data for the [2nd Astro-COLIBRI Workshop](https://indico.ijclab.in2p3.fr/event/9549/).
+Data for the [2nd Astro-COLIBRI Workshop](https://indico.ijclab.in2p3.fr/event/9549/). The archive consists of all published ATels until 15/11/2023. 
 
 
 ### How to Load Data?
