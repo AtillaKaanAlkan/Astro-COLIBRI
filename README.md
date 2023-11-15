@@ -1,4 +1,4 @@
-# Astro-COLIBRI
+# Information Extraction with NLP techniques at the Second Astro-COLIBRI Workshop
 Data for the 2nd Astro-COLIBRI Workshop.
 
 
